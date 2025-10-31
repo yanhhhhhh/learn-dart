@@ -1,0 +1,83 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "async",
+      "rootUri": "file:///Users/haichen/.pub-cache/hosted/pub.flutter-io.cn/async-2.13.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/haichen/.pub-cache/hosted/pub.flutter-io.cn/collection-1.19.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/haichen/.pub-cache/hosted/pub.flutter-io.cn/http-1.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/haichen/.pub-cache/hosted/pub.flutter-io.cn/http_parser-4.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/haichen/.pub-cache/hosted/pub.flutter-io.cn/meta-1.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/haichen/.pub-cache/hosted/pub.flutter-io.cn/path-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/haichen/.pub-cache/hosted/pub.flutter-io.cn/source_span-1.10.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/haichen/.pub-cache/hosted/pub.flutter-io.cn/string_scanner-1.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/haichen/.pub-cache/hosted/pub.flutter-io.cn/term_glyph-1.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/haichen/.pub-cache/hosted/pub.flutter-io.cn/typed_data-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "web",
+      "rootUri": "file:///Users/haichen/.pub-cache/hosted/pub.flutter-io.cn/web-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "http_example",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2025-10-31T08:50:51.093569Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.4",
+  "flutterRoot": "file:///Users/haichen/fvm/versions/3.24.4",
+  "flutterVersion": "3.24.4",
+  "pubCache": "file:///Users/haichen/.pub-cache"
+}
